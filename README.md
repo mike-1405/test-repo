@@ -1,3 +1,3 @@
-## Readme
+## test-repo
 
-this is readme file
+this is test repo for learning "Getting Started with Git and GitHub"
